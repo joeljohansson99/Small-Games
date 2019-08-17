@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1560500942 source:c:\users\joel\documents\c++ course\space shooter upgrade\main.cpp
+	<iostream>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	<vector>
+
+1560527325 source:c:\users\joel\documents\games c++\space shooter upgrade\main.cpp
+	<iostream>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	<vector>
+
+1560527325 source:c:\users\joel\documents\c++ projects\games c++\space shooter upgrade\main.cpp
+	<iostream>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	<vector>
+

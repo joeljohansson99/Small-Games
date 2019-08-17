@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1560416219 source:c:\users\joel\documents\c++ course\pingpong\main.cpp
+	<iostream>
+	<conio.h>
+	<vector>
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+
+1560422141 source:c:\users\joel\documents\games c++\pingpong\main.cpp
+	<iostream>
+	<conio.h>
+	<vector>
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+

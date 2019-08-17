@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1560374340 source:c:\users\joel\documents\c++ course\sdl test\snake\main.cpp
+	<iostream>
+	<conio.h>
+	<vector>
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+
+1560716647 source:c:\users\joel\documents\games c++\snake\main.cpp
+	<iostream>
+	<conio.h>
+	<vector>
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+
+1560793287 source:c:\users\joel\documents\c++ projects\games c++\snake\main.cpp
+	<iostream>
+	<conio.h>
+	<vector>
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+
